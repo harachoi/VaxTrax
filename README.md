@@ -12,8 +12,19 @@ Service: AWS Elastic Beanstalk
 ## 2. Design Details
 <img src="https://github.com/harachoi/VaxTrax/blob/main/Images/image.png" width="60%" align="center">
 
-## 3. Sequence Diagrams
-View U.S. COVID-19 Statistics
+## 3. Views & Source Codes
 
-<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/US-covid19-statistics.png" width="60%" align="center">
+#### 1) View U.S. COVID-19 Statistics 
 
+[Source Code](https://github.com/harachoi/VaxTrax/blob/main/Portfolio/U.S.%20Statistics.md)
+
+<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/US-covid19-statistics.PNG" width="60%" align="center">
+
+#### 2) 
+
+
+<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-1(cut).png" width="60%" align="center"> <img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-2(cut).PNG" width="60%" align="center">
+
+<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-3(cut).PNG" width="60%" align="center">
+
+<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-4(cut).PNG" width="60%" align="center">
