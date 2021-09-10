@@ -1,26 +1,14 @@
----
-gallery:
-  - url: /assets/images/JSP/회원가입.jpg
-    image_path: assets/images/JSP/회원가입.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/JSP/로그인.jpg
-    image_path: assets/images/JSP/로그인.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/JSP/게시판목록.jpg
-    image_path: assets/images/JSP/게시판목록.jpg
-    alt: "placeholder image 3"
-  - url: /assets/images/JSP/게시판글쓰기.jpg
-    image_path: assets/images/JSP/게시판글쓰기.jpg
-    alt: "placeholder image 4"
-  - url: /assets/images/JSP/게시판글보기.jpg
-    image_path: assets/images/JSP/게시판글보기.jpg
-    alt: "placeholder image 5"
-  - url: /assets/images/JSP/게시판글수정.jpg
-    image_path: assets/images/JSP/게시판글수정.jpg
-    alt: "placeholder image 6"
-layout: archive
-classes: layout--home
----
+ 
+# Covid-19 Vaccine Tracker
+Based on United States, this program provides the progress of vaccination for each states and for each counties. Also, the users can compare different kinds rates from their state to the other state. Visit us for more information.
+
+## Project Obejctives
+  - Develop a web app that graphically displays COVID-19 vaccination data along with other useful COVID-19 related statistics.
+  - Display vaccinations administered.
+  - Display state vaccination distribution.
+  - Predict vaccine doses based on current distribution.
+  - Display a herd immunity progress bar, the percent of people vaccinated, for each U.S. state.
+  - Identify states that are struggling to administer the vaccine through color coordination.
 
 ## 1. Non-Functional Issues
 
