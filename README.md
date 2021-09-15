@@ -30,10 +30,14 @@ Service: AWS Elastic Beanstalk
 
 - The user can select one state and another state to compare.
 
-    [Source Code](https://github.com/harachoi/VaxTrax/blob/main/Pages/compareUS.md)
+    [Source Code](https://github.com/harachoi/VaxTrax/blob/main/Pages/CompareUS.md)
 
 
 #### 2) View U.S. COVID-19 Statistics 
+- The user can see the detailed progress of vaccination of regions of each state selected.
+
+    [Source Code](https://github.com/harachoi/VaxTrax/blob/main/Pages/US_Province.md)
+
 
 
 ## 화면 구성	
