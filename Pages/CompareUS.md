@@ -1,4 +1,4 @@
-<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/Comparison-2.PNG" width="60%" align="center">
+<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/Comparisons-2.PNG" width="90%" align="center">
 
 
 ```python

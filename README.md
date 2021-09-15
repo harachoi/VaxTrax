@@ -38,6 +38,11 @@ Service: AWS Elastic Beanstalk
 
     [Source Code](https://github.com/harachoi/VaxTrax/blob/main/Pages/US_Province.md)
 
+#### 3) View World Vaccination by Manufacturers
+- The user can select one manufacurer and see which countries have used by the timeline.
+
+    [Source Code](https://github.com/harachoi/VaxTrax/blob/main/Pages/US_Province.md)
+
 
 
 ## 화면 구성	
@@ -49,14 +54,10 @@ Service: AWS Elastic Beanstalk
 
 <img src="https://github.com/harachoi/VaxTrax/blob/main/Images/US-covid19-statistics.PNG" align="center">
 
-<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-1(cut).png" width="60%" align="center">
+<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-1(cut).PNG" width="60%" align="center">
 
-<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-2(cut).png" width="60%" align="center">
+<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-2(cut).PNG" width="60%" align="center">
 
-<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-3(cut).png" width="60%" align="center">
+<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-3(cut).PNG" width="60%" align="center">
 
-<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-4(cut).png" width="60%" align="center">
-
-
-#### 2) 
-
+<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-4(cut).PNG" width="60%" align="center">
