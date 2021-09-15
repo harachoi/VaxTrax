@@ -1,4 +1,4 @@
-<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-2.png" width="60%" align="center">
+<img src="https://github.com/harachoi/VaxTrax/blob/main/Images/covid19-2.PNG" width="60%" align="center">
 
 ```Python
 covidStats_layout = html.Div([
